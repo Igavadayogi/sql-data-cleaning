@@ -1,0 +1,311 @@
+customer_id,first_name,last_name,email,city,segment,signup_date,loyalty_tier,state
+93810,Mark,Williams,markwil@gmail.com,Memphis,Corporate,2020-05-02,Gold,TN
+24592,Amelia,Wright,wright32@gmail.com,Dallas,Consumer,2022-04-20,Silver,TX
+13278,Harper,Nelson,harper.nelson@hotmail.com,Jacksonville,Consumer,2020-10-25,Bronze,FL
+46048,Mia,Anderson,manderson@outlook.com,Philadelphia,Consumer,2019-02-02,Bronze,PA
+42098,Charlotte,Allen,,Nashville,Consumer,2019-12-23,Bronze,TN
+39256,Mark,Anderson,markand@outlook.com,Nashville,Corporate,2020-06-27,Bronze,TN
+28289,Isabella,Wright,iwright@yahoo.com,Memphis,Home Office,2019-04-18,Bronze,TN
+23434,Michael,Green,michaelgre@icloud.com,Houston,Consumer,2019-09-17,Bronze,TX
+98696,Robert,Brown,robertbro@gmail.com,Philadelphia,CORPORATE,2021-05-12,Silver,PA
+81482,Emma,Torres,emmator@yahoo.com,San Jose,Consumer,2021-12-13,Bronze,CA
+21395,Robert,Adams,robert.adams@hotmail.com,Houston,Small Business,2019-08-21,Bronze,TX
+87397,Maria,Taylor,mtaylor@outlook.com,Washington,Home Office,2019-05-11,Bronze,DC
+65302,Matthew,Thompson,matthewtho@hotmail.com,New York,Corporate,2021-09-02,Gold,NY
+14165,Amelia,Taylor,amelia.taylor@icloud.com,San Jose,Consumer,2021-07-07,Bronze,CA
+13905,Mia,Wright,mwright@gmail.com,Washington,Consumer,2021-01-11,Gold,DC
+22280,Maria,White,white77@hotmail.com,Las Vegas,Consumer,11/17/2021,Gold,NV
+38657,Amelia,Anderson,,Fort Worth,SMALL BUSINESS,2022-04-30,Silver,TX
+40495,John,Jackson,johnjac@gmail.com,Fort Worth,Consumer,2019-08-12,Silver,TX
+76237,Maria,Scott,maria.scott@outlook.com,Memphis,Consumer,2021-07-14,Bronze,TN
+88907,Maria,Taylor,taylor97@hotmail.com,San Antonio,Small Business,2021-10-28,Silver,TX
+13478,Matthew,Moore,mmoore@icloud.com,Chicago,Corporate,2020-03-29,Silver,IL
+83563,Isabella,Jones,isabellajon@yahoo.com,Washington,CORPORATE,2022-06-13,Gold,DC
+36062,Daniel,Miller,miller74@yahoo.com,Memphis,Consumer,2019-03-30,Bronze,TN
+95181,Abigail,White,abigail.white@gmail.com,Portland,CONSUMER,2022-09-11,Gold,OR
+81426,Evelyn,Wright,evelynwri@icloud.com,San Diego,Consumer,2021-12-03,Silver,CA
+64987,Daniel,Jackson,danieljac@outlook.com,Houston,Corporate,2020-09-09,Bronze,TX
+38893,Lisa,Wright,lwright@yahoo.com,Memphis,Corporate,2021-07-27,Bronze,TN
+68878,Maria,Torres,mtorres@yahoo.com,San Jose,Corporate,2022-08-10,Bronze,CA
+87236,Daniel,Adams,,Las Vegas,Consumer,2019-03-05,Bronze,NV
+46463,David,Garcia,dgarcia@gmail.com,Nashville,Corporate,2019-05-05,Bronze,TN
+10851,Evelyn,Allen,eallen@yahoo.com,Houston,Small Business,2021-09-07,Gold,TX
+30926,Lisa,Young,lyoung@yahoo.com,Washington,Consumer,2021-04-02,Bronze,DC
+65392,David,Taylor,david.taylor@icloud.com,Los Angeles,Corporate,2021-05-23,Silver,CA
+54597,Ava,Jackson,avajac@icloud.com,Jacksonville,Consumer,2022-11-06,Silver,FL
+46421,David,Moore,davidmoo@icloud.com,Denver,Small Business,2019-08-10,Bronze,CO
+30379,Charlotte,Flores,cflores@yahoo.com,Columbus,Corporate,2021-10-01,Bronze,OH
+38221,Evelyn,Smith,evelyn.smith@icloud.com,Las Vegas,Consumer,2022-12-29,Bronze,NV
+54118,Anna,Taylor,anna.taylor@gmail.com,Jacksonville,Consumer,06/27/2021,Bronze,FL
+23396,Charles,Taylor,ctaylor@gmail.com,,CORPORATE,2019-05-31,Silver,IL
+22156,Sarah,Miller,miller89@yahoo.com,Seattle,CORPORATE,2019-06-15,Bronze,WA
+59797,Andrew,White,white90@gmail.com,Portland,Consumer,2020-10-21,Bronze,OR
+22676,Matthew,Hill,,Austin,Small Business,2022-05-30,Bronze,TX
+57052,Anna,Young,,New York,Home Office,10/31/2019,Bronze,NY
+55082,Matthew,Allen,mallen@hotmail.com,Columbus,Consumer,05/15/2019,Bronze,OH
+89131,Ava,King,ava.king@hotmail.com,Indianapolis,Consumer,2019-09-16,Silver,IN
+44671,Maria,Anderson,mariaand@gmail.com,Houston,Home Office,2020-07-17,Silver,TX
+15695,Ava,Harris,harris71@hotmail.com,Columbus,Consumer,2022-07-02,Silver,OH
+70217,David,Harris,,Jacksonville,Corporate,2022-07-20,Bronze,FL
+80284,Sophia,Harris,sophiahar@outlook.com,Portland,CONSUMER,2022-04-13,Bronze,OR
+26361,Charlotte,Wright,cwright@outlook.com,Charlotte,Consumer,2022-01-28,Silver,NC
+59615,Matthew,Miller,miller26@outlook.com,Memphis,Home Office,2022-12-29,Bronze,TN
+20328,Matthew,Thompson,matthew.thompson@outlook.com,Phoenix,Small Business,2020-10-27,Silver,AZ
+82357,Daniel,Martin,danielmar@outlook.com,Columbus,Consumer,2021-02-19,Silver,OH
+48427,John,Hill,john.hill@hotmail.com,Philadelphia,Corporate,2022-05-08,Gold,PA
+92397,Abigail,Adams,adams41@outlook.com,Seattle,Consumer,2021-12-22,Gold,WA
+91070,William,Hill,william.hill@yahoo.com,Portland,Small Business,2020-08-26,Bronze,OR
+57400,Robert,Torres,rtorres@gmail.com,Dallas,Consumer,2021-07-18,Silver,TX
+85674,Charlotte,Garcia,garcia41@hotmail.com,Nashville,Home Office,2021-11-01,Bronze,TN
+35203,Mark,Wright,mwright@yahoo.com,Denver,Home Office,2022-05-24,Bronze,CO
+19116,John,Williams,jwilliams@icloud.com,Indianapolis,Consumer,2021-05-31,Platinum,IN
+16006,Anna,Taylor,annatay@yahoo.com,Charlotte,Corporate,2019-07-23,Silver,NC
+96673,William,Thompson,thompson73@hotmail.com,Columbus,Consumer,2022-12-08,Bronze,OH
+39871,Charles,Wright,wright12@outlook.com,Washington,Small Business,2019-08-23,Silver,DC
+47930,Michael,King,king74@gmail.com,Dallas,Consumer,2022-09-02,Gold,TX
+20458,Charlotte,Allen,charlotteall@hotmail.com,Austin,Home Office,2022-08-26,Bronze,TX
+40512,Anthony,Anderson,aanderson@yahoo.com,San Diego,Consumer,2022-02-03,Bronze,CA
+23238,Emma,Williams,emma.williams@gmail.com,Chicago,Consumer,2020-03-16,Silver,IL
+59823,Thomas,Flores,flores86@outlook.com,Dallas,Corporate,2021-05-30,Gold,TX
+46434,John,Nguyen,jnguyen@hotmail.com,Charlotte,Small Business,2021-07-13,Silver,NC
+69429,Abigail,Davis,abigail.davis@icloud.com,San Diego,Consumer,2020-04-12,Gold,CA
+93320,Paul,Wright,wright27@gmail.com,Charlotte,Consumer,2021-04-27,Silver,NC
+57819,Abigail,Taylor,ataylor@outlook.com,Washington,Corporate,2020-11-25,Silver,DC
+31319,David,Davis,ddavis@hotmail.com,Nashville,Consumer,2021-07-17,Silver,TN
+58520,James,Hill,hill16@gmail.com,Las Vegas,CORPORATE,2021-03-27,Silver,NV
+56566,Thomas,Miller,thomasmil@icloud.com,Fort Worth,Corporate,2021-05-01,Bronze,TX
+37460,Ava,Jones,ajones@outlook.com,Austin,Consumer,2019-07-14,Bronze,TX
+97841,Matthew,Smith,smith74@gmail.com,New York,Consumer,2020-10-02,Bronze,NY
+44993,Sarah,Johnson,sjohnson@hotmail.com,Indianapolis,Consumer,2021-05-24,Bronze,IN
+99593,David,Davis,david.davis@icloud.com,Austin,Corporate,10/02/2020,Bronze,TX
+94939,Mia,Martin,mia.martin@yahoo.com,Philadelphia,Corporate,2022-09-24,Gold,PA
+19358,Robert,Allen,rallen@hotmail.com,Indianapolis,Consumer,2020-06-06,Bronze,IN
+89840,Daniel,Green,dgreen@outlook.com,San Antonio,Corporate,2021-02-05,Bronze,TX
+93227,William,Nguyen,williamngu@yahoo.com,Jacksonville,Consumer,2019-11-09,Bronze,FL
+32431,Michael,Williams,williams74@icloud.com,Dallas,CORPORATE,2022-11-07,Bronze,TX
+80010,Abigail,Harris,abigail.harris@gmail.com,Austin,Corporate,2021-08-29,Gold,TX
+42087,Olivia,White,oliviawhi@gmail.com,Dallas,Home Office,2019-05-18,Bronze,TX
+31417,Andrew,Adams,adams76@outlook.com,Nashville,Consumer,2019-07-06,Silver,TN
+70589,David,King,,Memphis,Corporate,2019-06-24,Gold,TN
+59735,Andrew,Young,andrewyou@icloud.com,Dallas,Home Office,2019-07-10,Gold,TX
+45382,Anna,Miller,amiller@outlook.com,Denver,Small Business,2021-06-03,Bronze,CO
+93886,Olivia,Scott,scott88@yahoo.com,New York,Consumer,2019-07-17,Bronze,NY
+83000,Emma,Scott,escott@outlook.com,Seattle,CONSUMER,2021-02-02,Silver,WA
+38785,Lisa,Jackson,jackson82@icloud.com,San Antonio,Consumer,2019-09-24,Bronze,TX
+99733,Thomas,Martin,martin12@outlook.com,Chicago,Corporate,2022-02-13,Bronze,IL
+52504,Steven,Jackson,sjackson@outlook.com,San Diego,Home Office,2019-05-03,Bronze,CA
+17331,Mia,Davis,davis84@gmail.com,Columbus,Home Office,04/16/2022,Gold,OH
+40021,Mark,Jones,mark.jones@outlook.com,Indianapolis,Consumer,2022-02-24,Silver,IN
+14207,Emma,King,king43@icloud.com,Denver,Corporate,2022-02-24,Gold,CO
+51347,Ava,Scott,avasco@icloud.com,San Diego,Consumer,2020-11-06,Bronze,CA
+62581,Harper,Smith,smith31@gmail.com,Memphis,Corporate,2022-10-04,Bronze,TN
+45093,Anthony,Adams,adams28@icloud.com,Indianapolis,Consumer,2019-09-08,Bronze,IN
+18675,Daniel,Nguyen,daniel.nguyen@yahoo.com,Portland,Corporate,2021-04-21,Silver,OR
+37653,James,Green,james.green@icloud.com,Memphis,Consumer,2020-12-25,Bronze,TN
+84341,Charlotte,Nguyen,charlotte.nguyen@yahoo.com,Indianapolis,Consumer,2022-09-24,Bronze,IN
+51245,Steven,Adams,sadams@hotmail.com,Charlotte,Small Business,2021-05-16,Bronze,NC
+37869,Mia,Brown,miabro@hotmail.com,New York,Consumer,2019-04-16,Silver,NY
+95909,Emma,Nguyen,emmangu@hotmail.com,Chicago,CORPORATE,2020-08-12,Bronze,IL
+75435,Abigail,White,white17@hotmail.com,San Jose,Corporate,2022-05-14,Silver,CA
+61856,Charlotte,Davis,charlottedav@yahoo.com,San Diego,HOME OFFICE,2020-10-01,Bronze,CA
+94259,Sarah,Garcia,sgarcia@icloud.com,Fort Worth,Home Office,2020-12-21,Gold,TX
+70142,Andrew,Hill,hill50@hotmail.com,Memphis,Home Office,2019-08-01,Bronze,TN
+28726,Michael,Scott,scott78@yahoo.com,San Diego,Consumer,2022-03-29,Gold,CA
+44718,William,Thompson,wthompson@outlook.com,San Jose,Consumer,2021-11-05,Bronze,CA
+28301,Sarah,Harris,harris34@outlook.com,Las Vegas,Corporate,2020-03-11,Gold,NV
+42325,Andrew,Johnson,ajohnson@yahoo.com,Washington,Corporate,2019-11-13,Platinum,DC
+83579,Sarah,Moore,,Jacksonville,Home Office,2022-09-06,Bronze,FL
+80644,Amelia,Davis,adavis@yahoo.com,Indianapolis,Consumer,09/14/2021,Bronze,IN
+44438,Mia,Nelson,mianel@outlook.com,Denver,CONSUMER,2020-04-04,Bronze,CO
+86622,Michael,Green,mgreen@hotmail.com,,Corporate,2019-08-10,Silver,WA
+66155,William,Brown,wbrown@hotmail.com,Jacksonville,Small Business,2020-12-18,Platinum,FL
+86484,Emma,Harris,eharris@icloud.com,Columbus,Small Business,2022-02-13,Gold,OH
+62350,Ava,Jones,ava.jones@outlook.com,Denver,Corporate,2021-01-22,Gold,CO
+57447,Robert,Hill,hill60@icloud.com,Austin,Consumer,2019-08-24,Bronze,TX
+38746,Mark,Harris,markhar@outlook.com,Jacksonville,CONSUMER,2020-07-24,Bronze,FL
+28131,John,Wright,john.wright@outlook.com,Memphis,Corporate,2022-03-21,Silver,TN
+76784,Robert,Thompson,robert.thompson@outlook.com,Charlotte,Home Office,2020-04-08,Gold,NC
+74686,Charlotte,Moore,moore93@outlook.com,Dallas,Consumer,05/28/2021,Silver,TX
+21915,Anthony,Allen,allen37@outlook.com,San Jose,Corporate,2022-02-22,Bronze,CA
+16175,Evelyn,Anderson,eanderson@yahoo.com,Dallas,Home Office,2022-06-27,Gold,TX
+24371,William,Nguyen,wnguyen@icloud.com,San Diego,Consumer,2022-06-10,Gold,CA
+30033,Daniel,Adams,daniel.adams@yahoo.com,Houston,Corporate,2022-10-14,Bronze,TX
+92240,Isabella,Harris,isabellahar@icloud.com,San Antonio,Consumer,2022-08-09,Silver,TX
+30969,William,Allen,william.allen@yahoo.com,Austin,Consumer,2022-02-14,Bronze,TX
+99192,Andrew,Flores,andrewflo@icloud.com,Houston,Consumer,2019-02-23,Gold,TX
+65333,Abigail,Torres,abigail.torres@yahoo.com,Denver,Corporate,2022-06-01,Bronze,CO
+88172,Evelyn,Adams,adams52@gmail.com,Memphis,Corporate,2022-09-09,Bronze,TN
+18326,Maria,Thompson,maria.thompson@hotmail.com,Philadelphia,Corporate,2022-11-21,Gold,PA
+60432,David,White,david.white@yahoo.com,San Antonio,Consumer,07/01/2020,Bronze,TX
+60019,Anthony,Flores,anthonyflo@icloud.com,San Antonio,CONSUMER,2019-03-01,Bronze,TX
+88104,Sophia,Nelson,nelson71@hotmail.com,Indianapolis,Home Office,01/05/2020,Bronze,IN
+71348,Steven,Moore,smoore@yahoo.com,Dallas,Corporate,2020-07-13,Bronze,TX
+79352,William,Harris,wharris@outlook.com,Washington,Consumer,2022-12-10,Bronze,DC
+42953,Maria,Adams,maria.adams@gmail.com,Seattle,Home Office,2020-09-24,Silver,WA
+82512,James,Garcia,jamesgar@icloud.com,Nashville,CONSUMER,2020-11-26,Bronze,TN
+11504,John,Torres,john.torres@icloud.com,San Jose,Consumer,2020-12-19,Platinum,CA
+99166,Paul,Green,green32@yahoo.com,Houston,Consumer,2019-01-13,Bronze,TX
+25014,Michael,Martin,martin73@gmail.com,San Antonio,Consumer,2020-01-07,Bronze,TX
+99353,Anthony,Harris,aharris@yahoo.com,San Jose,Consumer,2019-10-21,Gold,CA
+80381,William,Wilson,william.wilson@gmail.com,San Diego,Home Office,2022-03-05,Gold,CA
+44973,Lisa,Nguyen,lisa.nguyen@outlook.com,Jacksonville,Home Office,2022-09-08,Silver,FL
+94012,Amelia,Davis,adavis@outlook.com,Philadelphia,Corporate,2021-03-31,Silver,PA
+54587,Thomas,Flores,flores27@hotmail.com,San Jose,Consumer,05/23/2019,Bronze,CA
+24621,Mia,King,king44@icloud.com,New York,Consumer,2019-10-18,Bronze,NY
+48469,Mark,Wilson,,Memphis,CONSUMER,2022-07-20,Gold,TN
+66985,Sophia,Nguyen,sophiangu@outlook.com,Denver,Corporate,2019-03-04,Silver,CO
+30730,Mia,Nguyen,mnguyen@hotmail.com,Phoenix,Corporate,2019-07-07,Bronze,AZ
+69470,James,Thompson,james.thompson@yahoo.com,Dallas,Consumer,2021-12-22,Silver,TX
+10425,Sarah,Martin,smartin@outlook.com,Los Angeles,Consumer,2020-03-16,Bronze,CA
+44522,David,King,davidkin@icloud.com,Los Angeles,Home Office,2021-02-09,Bronze,CA
+75612,Andrew,Davis,davis64@yahoo.com,Denver,Consumer,2021-05-09,Bronze,CO
+33416,Mark,Wilson,mwilson@icloud.com,San Jose,Consumer,2021-07-18,Bronze,CA
+76542,Andrew,Harris,harris95@gmail.com,Memphis,CONSUMER,2020-11-29,Gold,TN
+23947,Michael,Williams,michaelwil@gmail.com,Phoenix,Consumer,2019-11-19,Silver,AZ
+91959,Mia,Scott,scott51@yahoo.com,Portland,Corporate,2021-01-27,Silver,OR
+49117,Maria,Taylor,maria.taylor@yahoo.com,Indianapolis,Corporate,2020-09-30,Silver,IN
+93748,Steven,Davis,davis40@outlook.com,Houston,Small Business,2020-10-26,Bronze,TX
+76540,Olivia,Wilson,owilson@hotmail.com,New York,Consumer,2022-03-08,Bronze,NY
+89818,Matthew,Anderson,manderson@outlook.com,,Small Business,2022-05-06,Bronze,DC
+36071,Mia,Anderson,mia.anderson@icloud.com,San Jose,Corporate,2019-06-23,Bronze,CA
+30032,Michael,Adams,,Indianapolis,Consumer,2019-04-18,Bronze,IN
+59009,Sophia,Moore,sophia.moore@yahoo.com,Indianapolis,Corporate,2019-11-15,Silver,IN
+31174,Michael,Williams,williams49@gmail.com,Charlotte,Corporate,2019-11-19,Bronze,NC
+80697,Maria,Jones,jones97@yahoo.com,Austin,Corporate,2022-06-19,Bronze,TX
+79514,Emma,Jones,ejones@icloud.com,Philadelphia,Consumer,2019-04-12,Gold,PA
+10074,Olivia,Davis,odavis@gmail.com,,Corporate,2022-10-12,Silver,CA
+88504,Andrew,Jackson,andrewjac@outlook.com,Dallas,Consumer,2019-06-17,Bronze,TX
+52487,Abigail,Scott,abigailsco@yahoo.com,Indianapolis,Home Office,2020-07-11,Silver,IN
+74042,Harper,Jones,harperjon@hotmail.com,Houston,Consumer,2021-06-26,Bronze,TX
+12552,Evelyn,Scott,escott@hotmail.com,Chicago,Corporate,2022-09-17,Bronze,IL
+24662,Maria,Miller,miller78@hotmail.com,Fort Worth,Corporate,2021-05-18,Bronze,TX
+57576,Andrew,Williams,andrewwil@yahoo.com,Indianapolis,Consumer,2021-09-21,Silver,IN
+50306,Olivia,White,olivia.white@icloud.com,Chicago,Corporate,2022-05-28,Bronze,IL
+41385,Robert,White,white77@icloud.com,Washington,Corporate,06/24/2021,Bronze,DC
+17592,Charlotte,Anderson,charlotte.anderson@outlook.com,Portland,Corporate,2021-04-28,Silver,OR
+41571,Anna,Moore,anna.moore@icloud.com,Las Vegas,Corporate,2020-07-13,Bronze,NV
+84364,Charlotte,Harris,charlottehar@gmail.com,Los Angeles,Corporate,2020-03-17,Platinum,CA
+20322,Sarah,White,sarahwhi@icloud.com,Phoenix,Home Office,2021-11-15,Bronze,AZ
+21226,Olivia,Johnson,ojohnson@yahoo.com,Phoenix,Corporate,2019-08-22,Silver,AZ
+73699,Paul,Miller,miller24@icloud.com,Washington,Home Office,2020-12-07,Silver,DC
+19071,Mia,Flores,flores21@yahoo.com,San Jose,Corporate,2021-05-30,Platinum,CA
+79822,Andrew,White,white17@icloud.com,Chicago,Consumer,2019-08-16,Silver,IL
+26483,Evelyn,Jackson,evelynjac@hotmail.com,San Diego,Consumer,2020-08-03,Bronze,CA
+26828,Sophia,Adams,adams68@icloud.com,Houston,Corporate,10/20/2022,Bronze,TX
+96474,Ava,Nguyen,,Denver,Corporate,2022-10-21,Silver,CO
+72296,Amelia,Young,,Columbus,Consumer,04/29/2022,Platinum,OH
+82063,Michael,Scott,michael.scott@outlook.com,Nashville,Consumer,2021-09-23,Bronze,TN
+31643,Abigail,Smith,asmith@hotmail.com,Nashville,Corporate,2021-12-15,Bronze,TN
+44741,Abigail,Green,abigailgre@gmail.com,Nashville,Consumer,2022-09-28,Silver,TN
+79163,Anna,Adams,anna.adams@icloud.com,San Diego,Consumer,2020-09-23,Bronze,CA
+89507,Evelyn,Nguyen,nguyen54@gmail.com,Seattle,CORPORATE,04/04/2019,Silver,WA
+65461,Lisa,Young,lisa.young@gmail.com,Fort Worth,Small Business,2020-03-27,Silver,TX
+37760,Harper,Jackson,jackson14@gmail.com,Charlotte,Corporate,2021-03-20,Silver,NC
+80686,Harper,Martin,martin33@outlook.com,Charlotte,Home Office,2022-05-12,Silver,NC
+36365,Lisa,Smith,smith57@yahoo.com,,HOME OFFICE,2019-04-23,Bronze,CA
+50857,Andrew,Thomas,thomas58@hotmail.com,Washington,Consumer,2019-01-16,Bronze,DC
+62296,Sophia,Taylor,sophia.taylor@hotmail.com,Columbus,Home Office,2020-02-23,Silver,OH
+98039,James,Nguyen,jamesngu@icloud.com,San Jose,Consumer,2020-09-09,Gold,CA
+95180,Lisa,Jackson,,Washington,Home Office,2020-03-08,Bronze,DC
+58944,Amelia,Green,green77@yahoo.com,Nashville,Corporate,2019-10-09,Silver,TN
+67422,Abigail,Adams,abigailada@yahoo.com,Los Angeles,Consumer,2020-06-07,Bronze,CA
+77839,John,Flores,john.flores@gmail.com,Nashville,Consumer,2020-08-15,Silver,TN
+69177,Harper,White,white96@outlook.com,Houston,Small Business,2020-11-02,Silver,TX
+25860,Abigail,Moore,moore78@icloud.com,San Antonio,Consumer,2019-09-03,Gold,TX
+42493,Sophia,Torres,sophiator@hotmail.com,Portland,Small Business,2019-01-16,Bronze,OR
+39451,Harper,Torres,torres54@yahoo.com,San Antonio,Home Office,2021-10-15,Silver,TX
+18392,Charlotte,Moore,cmoore@yahoo.com,Dallas,Corporate,2021-05-31,Bronze,TX
+54313,Evelyn,Hill,evelyn.hill@yahoo.com,Las Vegas,Small Business,2019-12-26,Bronze,NV
+12757,Amelia,Allen,allen88@gmail.com,Chicago,Small Business,2019-09-22,Bronze,IL
+87110,Harper,Adams,harperada@gmail.com,Philadelphia,Home Office,2021-02-17,Bronze,PA
+82603,Anna,Davis,anna.davis@yahoo.com,San Diego,Consumer,2021-12-26,Bronze,CA
+40161,William,Martin,william.martin@gmail.com,Philadelphia,Corporate,2022-12-12,Gold,PA
+87128,Lisa,Davis,lisa.davis@hotmail.com,Denver,Consumer,04/16/2020,Silver,CO
+38864,Harper,Wilson,,Chicago,Corporate,2021-10-21,Platinum,IL
+10942,Mark,White,white39@hotmail.com,,Consumer,2022-02-18,Silver,PA
+19305,Sarah,Martin,sarahmar@icloud.com,New York,Corporate,2022-09-30,Bronze,NY
+92719,Charles,Smith,charlessmi@gmail.com,Columbus,Corporate,2020-12-26,Silver,OH
+17716,Evelyn,Jackson,ejackson@icloud.com,Charlotte,Corporate,2019-05-28,Bronze,NC
+40007,Maria,Anderson,manderson@yahoo.com,Memphis,Home Office,2021-03-24,Bronze,TN
+18834,Evelyn,Wright,ewright@icloud.com,Nashville,Small Business,2019-03-28,Silver,TN
+14117,Isabella,Wright,iwright@yahoo.com,Indianapolis,Consumer,2021-06-12,Gold,IN
+53309,Anna,Hill,annahil@yahoo.com,San Jose,Consumer,02/08/2019,Bronze,CA
+19287,Robert,Jackson,rjackson@hotmail.com,Los Angeles,Consumer,2021-07-30,Bronze,CA
+77391,Steven,Torres,steven.torres@outlook.com,San Diego,Home Office,2019-06-09,Bronze,CA
+41195,Abigail,Garcia,abigailgar@icloud.com,San Jose,Corporate,2020-10-03,Gold,CA
+46500,Thomas,Flores,flores16@hotmail.com,Memphis,Home Office,2022-03-25,Silver,TN
+97684,Olivia,Harris,harris77@outlook.com,San Jose,Consumer,2021-05-29,Gold,CA
+73624,Emma,Nelson,nelson62@outlook.com,Memphis,Consumer,2022-03-20,Bronze,TN
+38080,Steven,Jones,sjones@yahoo.com,Charlotte,Home Office,2021-04-08,Platinum,NC
+80678,Harper,Allen,harperall@hotmail.com,Chicago,Home Office,2022-12-24,Bronze,IL
+27342,Evelyn,Moore,moore40@icloud.com,Las Vegas,Consumer,2022-08-04,Bronze,NV
+84847,Anna,Smith,asmith@yahoo.com,San Diego,Consumer,2021-05-05,Gold,CA
+85525,Anna,Nelson,nelson17@yahoo.com,Dallas,Consumer,2020-08-15,Silver,TX
+71953,James,Jackson,jackson63@icloud.com,Portland,Small Business,2019-08-24,Gold,OR
+41850,Charlotte,Young,,Washington,CONSUMER,2021-04-09,Silver,DC
+71993,Robert,Young,robertyou@hotmail.com,Las Vegas,Consumer,2019-02-12,Bronze,NV
+63354,Charles,Wright,charleswri@outlook.com,San Antonio,Consumer,2020-10-27,Silver,TX
+34957,John,Smith,john.smith@outlook.com,Columbus,Home Office,2019-12-18,Gold,OH
+22363,William,Williams,wwilliams@hotmail.com,Houston,Consumer,2022-06-19,Silver,TX
+22704,Evelyn,King,evelynkin@gmail.com,Denver,Consumer,2021-07-31,Bronze,CO
+96374,David,White,dwhite@gmail.com,San Diego,Corporate,2022-11-13,Bronze,CA
+66498,Paul,Jones,paul.jones@hotmail.com,Portland,Corporate,2021-01-11,Silver,OR
+56438,William,Green,williamgre@gmail.com,Phoenix,Small Business,06/30/2019,Bronze,AZ
+65519,Olivia,Harris,oliviahar@icloud.com,Dallas,Consumer,2021-06-13,Silver,TX
+63883,Anthony,Garcia,anthonygar@hotmail.com,Phoenix,Corporate,2019-08-05,Bronze,AZ
+71213,Daniel,Johnson,djohnson@outlook.com,Chicago,Consumer,2020-05-13,Silver,IL
+17100,Charles,Wilson,,Los Angeles,Consumer,2021-06-11,Bronze,CA
+98259,Charlotte,Jackson,charlotte.jackson@yahoo.com,Philadelphia,Consumer,2022-04-21,Bronze,PA
+95649,Steven,Anderson,stevenand@hotmail.com,San Jose,Consumer,2021-03-31,Gold,CA
+94696,Mia,Miller,miamil@icloud.com,Nashville,Consumer,2021-12-09,Bronze,TN
+22899,John,Harris,johnhar@hotmail.com,Washington,Small Business,2019-06-11,Platinum,DC
+17944,James,Anderson,janderson@icloud.com,San Jose,Consumer,2021-03-21,Bronze,CA
+62772,Sarah,Anderson,anderson69@outlook.com,Charlotte,Consumer,2020-09-27,Platinum,NC
+54473,Andrew,Nguyen,anguyen@icloud.com,Houston,Consumer,2020-11-26,Gold,TX
+24322,William,Adams,wadams@outlook.com,Charlotte,Small Business,2020-03-29,Bronze,NC
+42591,Lisa,Jackson,jackson69@outlook.com,Memphis,Home Office,2020-11-13,Silver,TN
+35112,Matthew,Wilson,wilson50@gmail.com,San Jose,Consumer,2019-12-11,Bronze,CA
+34931,William,Nguyen,wnguyen@yahoo.com,Memphis,Corporate,2019-06-06,Gold,TN
+80292,Maria,Flores,flores15@outlook.com,Fort Worth,Corporate,2021-11-11,Silver,TX
+68800,Sarah,White,sarahwhi@icloud.com,Dallas,Small Business,2022-07-20,Platinum,TX
+28373,Ava,Wilson,ava.wilson@yahoo.com,Seattle,Consumer,2019-08-22,Bronze,WA
+65296,Sophia,Flores,flores47@outlook.com,Denver,CONSUMER,2021-12-22,Silver,CO
+34050,Olivia,Williams,oliviawil@yahoo.com,Indianapolis,Consumer,2021-11-10,Silver,IN
+46509,Amelia,Martin,ameliamar@outlook.com,Charlotte,Consumer,2020-02-02,Bronze,NC
+70637,Harper,Smith,harpersmi@hotmail.com,Chicago,Home Office,2020-12-16,Bronze,IL
+42742,John,Torres,jtorres@hotmail.com,Nashville,Consumer,2020-12-20,Silver,TN
+19880,Sophia,Moore,moore92@outlook.com,Los Angeles,Corporate,2022-08-14,Bronze,CA
+68082,Ava,Johnson,johnson31@hotmail.com,Columbus,Corporate,2019-10-30,Bronze,OH
+82132,Daniel,Thomas,danieltho@outlook.com,Austin,Corporate,2020-04-28,Silver,TX
+22833,Sarah,Davis,davis33@yahoo.com,Nashville,CONSUMER,2019-07-30,Silver,TN
+16630,Charles,King,charles.king@icloud.com,Dallas,Corporate,2019-10-27,Silver,TX
+95477,Andrew,Williams,andrew.williams@icloud.com,New York,Consumer,2020-06-08,Gold,NY
+80855,Matthew,Nguyen,matthew.nguyen@gmail.com,Chicago,Consumer,2020-02-09,Bronze,IL
+11934,Robert,King,,San Diego,Corporate,2019-12-22,Silver,CA
+22224,William,Johnson,william.johnson@yahoo.com,Las Vegas,Consumer,05/18/2022,Silver,NV
+40982,Maria,Nguyen,maria.nguyen@yahoo.com,Washington,Corporate,2019-11-10,Silver,DC
+31798,Mark,Smith,smith57@yahoo.com,Washington,Consumer,2022-09-04,Bronze,DC
+63269,Sophia,Davis,davis94@gmail.com,New York,Consumer,2019-06-04,Silver,NY
+73653,James,Miller,james.miller@hotmail.com,Las Vegas,Home Office,2019-12-29,Bronze,NV
+73092,Daniel,Flores,flores11@gmail.com,Dallas,CONSUMER,2022-07-10,Bronze,TX
+38016,Abigail,Smith,,Washington,Consumer,2021-10-08,Silver,DC
+62565,Harper,Allen,hallen@icloud.com,Los Angeles,HOME OFFICE,2021-08-08,Bronze,CA
+17685,Mia,Jones,jones32@gmail.com,Philadelphia,Consumer,2022-02-28,Bronze,PA
+31579,Charlotte,Davis,charlotte.davis@gmail.com,Indianapolis,Home Office,2022-04-01,Silver,IN
+59672,Amelia,Jones,ameliajon@icloud.com,Seattle,Consumer,2021-07-08,Bronze,WA
+10282,Amelia,Martin,ameliamar@yahoo.com,Portland,Consumer,2022-10-26,Bronze,OR
+61173,Amelia,Wright,awright@icloud.com,Charlotte,Consumer,2022-03-02,Bronze,NC
+44760,Charlotte,Brown,cbrown@outlook.com,Dallas,Consumer,2022-08-09,Platinum,TX
+69638,Robert,Young,robert.young@hotmail.com,Philadelphia,Corporate,2022-07-25,Bronze,PA
+47388,Olivia,Miller,miller68@outlook.com,Washington,Consumer,2022-07-03,Gold,DC
+65444,Sophia,Harris,sophiahar@icloud.com,Columbus,Consumer,10/23/2020,Bronze,OH
+98740,Lisa,Smith,smith57@yahoo.com,San Jose,HOME OFFICE,2019-04-23,Bronze,CA
+80852,William,Nguyen,wnguyen@yahoo.com,Memphis,Corporate,2019-06-06,Gold,TN
+53480,Mia,King,king44@icloud.com,New York,Consumer,2019-10-18,Bronze,NY
+60311,Emma,Torres,emmator@yahoo.com,San Jose,Consumer,2021-12-13,Bronze,CA
+28343,Abigail,Garcia,abigailgar@icloud.com,,Corporate,2020-10-03,Gold,CA
+20279,Evelyn,Jackson,ejackson@icloud.com,Charlotte,Corporate,2019-05-28,Bronze,NC
+75639,Abigail,Smith,asmith@hotmail.com,Nashville,Corporate,2021-12-15,Bronze,TN
+55332,Sarah,Garcia,sgarcia@icloud.com,Fort Worth,Home Office,2020-12-21,Gold,TX
+17038,Mark,Anderson,markand@outlook.com,Nashville,Corporate,2020-06-27,Bronze,TN
+22803,Andrew,Jackson,andrewjac@outlook.com,,Consumer,2019-06-17,Bronze,TX
