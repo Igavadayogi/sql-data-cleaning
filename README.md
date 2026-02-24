@@ -130,7 +130,6 @@ sql-data-cleaning/
 
 | Project | Tools | Impact |
 |---------|-------|--------|
-| [E-Commerce Dashboard](https://github.com/vadayogi/ecommerce-dashboard) | GA4, Looker Studio | $267K opportunity |
-| [Customer Segmentation](https://github.com/vadayogi/customer-segmentation) | Python, K-Means | $1.2M opportunity |
-| [Churn Prediction](https://github.com/vadayogi/customer-churn-prediction) | Python, scikit-learn | $231K saved |
+| [Customer Segmentation](https://github.com/Igavadayogi/customer-segmentation-rfm-analysis) | Python, K-Means | $1.2M opportunity |
+| [Churn Prediction](https://github.com/Igavadayogi/customer-churn-prediction) | Python, scikit-learn | $231K saved |
 | **SQL + Data Cleaning** | SQL, Python | 213 issues resolved |
