@@ -78,13 +78,20 @@ trusted, a full audit and cleaning pipeline was required.
 
 ## Visualizations
 
-| Chart | Insight |
-|-------|---------|
-| ![Audit](visualizations/05_data_quality_audit.png) | 213 issues by severity |
-| ![Region](visualizations/02_regional_performance.png) | East leads revenue + margin |
-| ![Category](visualizations/03_category_performance.png) | Technology dominates |
-| ![Trend](visualizations/01_monthly_trend.png) | 3-year revenue trend |
-| ![Segment](visualizations/04_segment_analysis.png) | Home Office highest value |
+**Data Quality Audit** — 213 issues by severity  
+![Audit](SQL-DataCleaning/visualizations/05_data_quality_audit.png)
+
+**Regional Performance** — East leads revenue + margin  
+![Region](SQL-DataCleaning/visualizations/02_regional_performance.png)
+
+**Category Performance** — Technology dominates at 64% of revenue  
+![Category](SQL-DataCleaning/visualizations/03_category_performance.png)
+
+**Monthly Trend** — 3-year revenue & profit trend  
+![Trend](SQL-DataCleaning/visualizations/01_monthly_trend.png)
+
+**Segment Analysis** — Home Office highest value per customer  
+![Segment](SQL-DataCleaning/visualizations/04_segment_analysis.png)
 
 ---
 
